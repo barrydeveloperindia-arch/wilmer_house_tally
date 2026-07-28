@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENVELOPE>
+    <HEADER>
+        <TALLYREQUEST>Import Data</TALLYREQUEST>
+    </HEADER>
+    <BODY>
+        <IMPORTDATA>
+            <REQUESTDESC>
+                <REPORTNAME>Vouchers</REPORTNAME>
+                <STATICVARIABLES>
+                    <SVCURRENTCOMPANY>WILMER HOUSE LTD</SVCURRENTCOMPANY>
+                </STATICVARIABLES>
+            </REQUESTDESC>
+            <REQUESTDATA>
+                
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20250228</DATE>
+                <NARRATION>Employment Allowance Claim - Feb 2025 (Month 10)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-230.00</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>230.00</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20250331</DATE>
+                <NARRATION>Employment Allowance Claim - Mar 2025 (Month 11)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-230.00</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>230.00</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20250430</DATE>
+                <NARRATION>Employment Allowance Claim - Apr 2025 (Month 12)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-230.00</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>230.00</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20250531</DATE>
+                <NARRATION>Employment Allowance Claim - May 2025 (Month 1)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-10.71</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>10.71</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20250630</DATE>
+                <NARRATION>Employment Allowance Claim - Jun 2025 (Month 2)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-83.97</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>83.97</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20250731</DATE>
+                <NARRATION>Employment Allowance Claim - Jul 2025 (Month 3)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-116.94</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>116.94</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20250831</DATE>
+                <NARRATION>Employment Allowance Claim - Aug 2025 (Month 4)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-352.28</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>352.28</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20250930</DATE>
+                <NARRATION>Employment Allowance Claim - Sep 2025 (Month 5)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-561.08</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>561.08</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20251031</DATE>
+                <NARRATION>Employment Allowance Claim - Oct 2025 (Month 6)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-553.75</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>553.75</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20251130</DATE>
+                <NARRATION>Employment Allowance Claim - Nov 2025 (Month 7)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-366.94</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>366.94</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20251231</DATE>
+                <NARRATION>Employment Allowance Claim - Dec 2025 (Month 8)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-348.62</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>348.62</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20260131</DATE>
+                <NARRATION>Employment Allowance Claim - Jan 2026 (Month 9)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-509.23</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>509.23</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20260228</DATE>
+                <NARRATION>Employment Allowance Claim - Feb 2026 (Month 10)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-513.17</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>513.17</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20260331</DATE>
+                <NARRATION>Employment Allowance Claim - Mar 2026 (Month 11)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-514.72</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>514.72</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER VCHTYPE="Journal" ACTION="Create" OBJVIEW="Journal Voucher View">
+                <DATE>20260430</DATE>
+                <NARRATION>Employment Allowance Claim - Apr 2026 (Month 12)</NARRATION>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <ISINVOICE>No</ISINVOICE>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>NICs Payable</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>-542.21</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Employment Allowance Claim</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <ISPARTYLEDGER>No</ISPARTYLEDGER>
+                    <AMOUNT>542.21</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+            </REQUESTDATA>
+        </IMPORTDATA>
+    </BODY>
+</ENVELOPE>

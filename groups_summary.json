@@ -1,0 +1,310 @@
+[
+  {
+    "name": "AC",
+    "parent": "Fixed Assets"
+  },
+  {
+    "name": "AC INVERTER",
+    "parent": "AC"
+  },
+  {
+    "name": "AC STAND",
+    "parent": "AC"
+  },
+  {
+    "name": "AMC CHARGES",
+    "parent": "Indirect Expenses"
+  },
+  {
+    "name": "Bank Accounts",
+    "parent": "Current Assets"
+  },
+  {
+    "name": "Bank Interest&amp; Charges",
+    "parent": "Indirect Expenses"
+  },
+  {
+    "name": "Bank OD A/c",
+    "parent": "Loans (Liability)"
+  },
+  {
+    "name": "Basic Salary",
+    "parent": "Salary Account"
+  },
+  {
+    "name": "Branch / Divisions",
+    "parent": "Fixed Assets"
+  },
+  {
+    "name": "Capital Account",
+    "parent": "Current Assets"
+  },
+  {
+    "name": "Cgst",
+    "parent": "GST Input"
+  },
+  {
+    "name": "CONSUMER",
+    "parent": "Sundry Debtors"
+  },
+  {
+    "name": "CONSUMER INDIRECT",
+    "parent": "CONSUMER"
+  },
+  {
+    "name": "COOK SALARY",
+    "parent": "Salary Account"
+  },
+  {
+    "name": "Current Assets",
+    "parent": "Sundry Debtors"
+  },
+  {
+    "name": "Deposits (Asset)",
+    "parent": "Current Assets"
+  },
+  {
+    "name": "Direct Expenses",
+    "parent": "Salary Account"
+  },
+  {
+    "name": "DRIVER SALARY",
+    "parent": "Salary Account"
+  },
+  {
+    "name": "Duties &amp; Taxes",
+    "parent": "Current Liabilities"
+  },
+  {
+    "name": "Expenses",
+    "parent": "Indirect Expenses"
+  },
+  {
+    "name": "Fixed Assets",
+    "parent": "Food Sale"
+  },
+  {
+    "name": "Food Sale",
+    "parent": "Sundry Debtors"
+  },
+  {
+    "name": "Food Service Indirect",
+    "parent": "Food Sale"
+  },
+  {
+    "name": "Furniture and Fitting",
+    "parent": "Fixed Assets"
+  },
+  {
+    "name": "GARBAGE SALARY",
+    "parent": "Salary Account"
+  },
+  {
+    "name": "GST Input",
+    "parent": "Duties &amp; Taxes"
+  },
+  {
+    "name": "GST INPUT 12%",
+    "parent": "GST Input"
+  },
+  {
+    "name": "GST INPUT 18%",
+    "parent": "GST Input"
+  },
+  {
+    "name": "GST INPUT 28%",
+    "parent": "GST Input"
+  },
+  {
+    "name": "GST INPUT 5%",
+    "parent": "GST Input"
+  },
+  {
+    "name": "Gst Output",
+    "parent": "Duties &amp; Taxes"
+  },
+  {
+    "name": "GST TDS",
+    "parent": "Duties &amp; Taxes"
+  },
+  {
+    "name": "HELPER SALARY",
+    "parent": "Salary Account"
+  },
+  {
+    "name": "Hotel Guests - Agoda",
+    "parent": "Sundry Debtors"
+  },
+  {
+    "name": "Hotel Guests - Booking.com",
+    "parent": "Sundry Debtors"
+  },
+  {
+    "name": "Hotel Guests - Corporate",
+    "parent": "Sundry Debtors"
+  },
+  {
+    "name": "Hotel Guests - Direct",
+    "parent": "Sundry Debtors"
+  },
+  {
+    "name": "Hotel Guests - Oyo",
+    "parent": "Sundry Debtors"
+  },
+  {
+    "name": "Hotel Guests - Treebo",
+    "parent": "Sundry Debtors"
+  },
+  {
+    "name": "Hotel Guests - Treebo Guest",
+    "parent": "Sundry Debtors"
+  },
+  {
+    "name": "Hotel Paid",
+    "parent": "Treebo Sale"
+  },
+  {
+    "name": "HOUSEKEEPING SALARY",
+    "parent": "Salary Account"
+  },
+  {
+    "name": "Imprest",
+    "parent": "Current Liabilities"
+  },
+  {
+    "name": "Indirect Expenses",
+    "parent": "GST Input"
+  },
+  {
+    "name": "Input Reversal",
+    "parent": "Duties &amp; Taxes"
+  },
+  {
+    "name": "Input SGST",
+    "parent": "GST Input"
+  },
+  {
+    "name": "Input Yet to Be Taken",
+    "parent": "Duties &amp; Taxes"
+  },
+  {
+    "name": "Investments",
+    "parent": "Fixed Assets"
+  },
+  {
+    "name": "KITCHEN HELPER SALARY",
+    "parent": "Salary Account"
+  },
+  {
+    "name": "LAUNDRY SALARY",
+    "parent": "Salary Account"
+  },
+  {
+    "name": "Loans &amp; Advances (Asset)",
+    "parent": "Current Assets"
+  },
+  {
+    "name": "Loans (Liability)",
+    "parent": "Salary Account"
+  },
+  {
+    "name": "Misc. Expenses (ASSET)",
+    "parent": "Fixed Assets"
+  },
+  {
+    "name": "Output Cgst",
+    "parent": "Gst Output"
+  },
+  {
+    "name": "Output Sgst",
+    "parent": "Gst Output"
+  },
+  {
+    "name": "PRINTER",
+    "parent": "Fixed Assets"
+  },
+  {
+    "name": "Provisions",
+    "parent": "Current Liabilities"
+  },
+  {
+    "name": "Purchase Accounts",
+    "parent": "Salary Account"
+  },
+  {
+    "name": "Reserves &amp; Surplus",
+    "parent": "Capital Account"
+  },
+  {
+    "name": "Room",
+    "parent": "Sundry Debtors"
+  },
+  {
+    "name": "Room Direct",
+    "parent": "Room"
+  },
+  {
+    "name": "Room Indirect",
+    "parent": "Room"
+  },
+  {
+    "name": "Room Rent Share",
+    "parent": "Indirect Expenses"
+  },
+  {
+    "name": "Salary Account",
+    "parent": "Indirect Expenses"
+  },
+  {
+    "name": "Salary Payable",
+    "parent": "Current Liabilities"
+  },
+  {
+    "name": "Sales Accounts",
+    "parent": "Loans (Liability)"
+  },
+  {
+    "name": "Sgst",
+    "parent": "GST Input"
+  },
+  {
+    "name": "Stock-in-Hand",
+    "parent": "Current Assets"
+  },
+  {
+    "name": "Sundry Creditors",
+    "parent": "Current Liabilities"
+  },
+  {
+    "name": "Sundry Debtors",
+    "parent": "Current Assets"
+  },
+  {
+    "name": "Suspense A/c",
+    "parent": "Current Liabilities"
+  },
+  {
+    "name": "Treebo",
+    "parent": "Sundry Debtors"
+  },
+  {
+    "name": "TREEBO FEE",
+    "parent": "Indirect Expenses"
+  },
+  {
+    "name": "Treebo Sale",
+    "parent": "Room Indirect"
+  },
+  {
+    "name": "Unsecured Loans",
+    "parent": "Loans (Liability)"
+  },
+  {
+    "name": "Vehicles",
+    "parent": "Fixed Assets"
+  },
+  {
+    "name": "WAITER SALARY",
+    "parent": "Salary Account"
+  }
+]
